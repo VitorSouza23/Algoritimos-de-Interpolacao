@@ -13,6 +13,6 @@ import br.edu.ifsc.interpolacao.InterpolacaoSimples;
  */
 public class Principal {
     public static void main(String[] args) {
-        InterpolacaoSimples.calcularPolinomio(1975);
+        InterpolacaoSimples.calcularPolinomio(80);
     }
 }

@@ -18,9 +18,10 @@ public class InterpolacaoSimples {
 
     private static void definirMatrix() {
         double matriz[][] = {
-            {Math.pow(1950, 2), 1950, 1, 352724},
-            {Math.pow(1970, 2), 1970, 1, 1235030},
-            {Math.pow(1980, 2), 1980, 1, 1814990}
+            {58, 1, 60},
+            {100, 1, 90}
+            
+            
         };
 
         EliminacaoGaussiana.setMatriz(matriz);
